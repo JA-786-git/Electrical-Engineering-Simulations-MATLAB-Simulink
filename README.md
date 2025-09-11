@@ -7,7 +7,10 @@ NOTE: This content was learned/practiced/developed and made available by a paid 
 Additional Resources used to actively deepen understanding, alongside the simulations, for contionous learning which found to be invaluable and easy to read.
 
 References:
+
 [1] M. H. Rashid, Simulation and Analysis of Circuits for Power Electronics. Institution of Engineering and Technology, 2025.
+
 [2] H. A. Sher, Simulation of Power Electronics Circuits Using SIMULINK. King Saud University, 2013.
+
 [3] W. Xiao, Power Electronics Step-by-Step: Design, Modeling, Simulation, and Control. McGraw Hill, 2021.
 
