@@ -1,7 +1,7 @@
 # Electrical-Engineering-Simulations-MATLAB-Simulink
 A Comprehensive Portfolio by Jawad Asjid of MATLAB Simulink projects demonstrating proficiency in modelling, simulation, and control system design for power systems and or electrical engineering disciplines. Implemented power electronic switches, electrical machines, power systems, solar cell and wind turbine systems.
 
-Hands on Simulink in there associated topics in 'slx' format.
+Hands on MATLAB Simulink (R2025a) in there associated topics in '.slx' format, available to download.
 
 
 NOTE: This content was learned/practiced/developed and made available by a paid online course on Udemy ' Ultimate MATLAB-Simulink for Electrical Engineering ' by Amr Saleh an Lecture Assistant/Researcher for Electrical Power and Machines department at Ain Shams University.
