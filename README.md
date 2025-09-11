@@ -1,5 +1,5 @@
 # Electrical-Engineering-Simulations-MATLAB-Simulink
-A Comprehensive Portfolio by Jawad Asjid of MATLAB Simulink projects demonstrating proficiency in modelling, simulation, and control system design for power systems and or electrical engineering disciplines. Implemented power electronic switches, electrical machines, power systems, solar cell and wind turbine systems.
+A Comprehensive Portfolio by Jawad Asjid of MATLAB Simulink projects demonstrating proficiency in modelling, simulation, and control system design for power systems and or electrical engineering disciplines. Implemented power electronic switches, synchronous/asynchronous machines, power systems, solar cell and wind turbine systems.
 
 Hands on MATLAB Simulink (R2025a) in there associated topics in '.slx' format, available to download.
 
